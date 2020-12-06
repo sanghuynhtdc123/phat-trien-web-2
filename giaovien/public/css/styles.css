@@ -1,0 +1,23 @@
+.open {
+	margin: 20px;
+	width: 300px;
+	text-align: center;
+}
+
+h3 {
+	text-transform: uppercase;
+	color: #1877f2;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container button {
+	margin: 10px 4px 0;
+}
+
+
+	
